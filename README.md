@@ -1,6 +1,7 @@
 # TransFix
 1.12 Spigot Plugin which mimics 1.10 tnt translocation behaviour
-https://www.spigotmc.org/resources/transfix.90823/
++ https://www.spigotmc.org/resources/transfix.90823/
++ Based on Movecraft-Combat: https://github.com/TylerS1066/Movecraft-Combat
 
 # Pros:
 + Consistent behaviour: Translocation action is synchronous
