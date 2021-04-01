@@ -1,6 +1,6 @@
 # TransFix
 1.12 Spigot Plugin which mimics 1.10 tnt translocation behaviour
-2.https://www.spigotmc.org/resources/transfix.90823/
+https://www.spigotmc.org/resources/transfix.90823/
 
 # Pros:
 + Consistent behaviour: Translocation action is synchronous
