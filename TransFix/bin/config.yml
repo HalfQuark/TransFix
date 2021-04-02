@@ -1,2 +1,7 @@
-#Period in ticks of tntMap clean process
-cleanTicks: 1200
+TranslocationBehaviour: true
+NoClipBlocks:
+   - 0
+   - 8
+   - 9
+   - 10
+   - 11
